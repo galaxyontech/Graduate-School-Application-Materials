@@ -1,0 +1,4 @@
+average days for infection,NaN
+corner cases,0,NaN
+center cases,0,NaN
+wall cases,1,21.0

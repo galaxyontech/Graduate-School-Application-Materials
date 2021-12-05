@@ -1,0 +1,4 @@
+average days for infection,NaN
+corner cases,7,16.857142857142858
+center cases,65,11.523076923076923
+wall cases,28,12.642857142857142
